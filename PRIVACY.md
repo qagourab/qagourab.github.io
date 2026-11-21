@@ -1,3 +1,6 @@
+---
+title: Privacy Policy
+---
 # Privacy Policy - GTA Clip Poster
 
 GTA Clip Poster is a personal tool used only by its owner to upload short GTA 6 gameplay clips

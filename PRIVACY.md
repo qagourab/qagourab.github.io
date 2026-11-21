@@ -1,0 +1,16 @@
+# Privacy Policy - GTA Clip Poster
+
+GTA Clip Poster is a personal tool used only by its owner to upload short GTA 6 gameplay clips
+to the owner's own YouTube channel.
+
+- **Data accessed:** only the owner's YouTube account, with permission to upload videos (YouTube Data API v3).
+- **Storage:** the sign-in token is stored only on the owner's own computer. Nothing is sent to anyone else.
+- **Sharing:** no data is sold, shared or used for advertising.
+- **Other users:** the app is not offered to the public, and no data about other people is collected.
+- **Revoking access:** at any time, at https://myaccount.google.com/permissions
+
+Use of information received from Google APIs follows the
+[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
+including the Limited Use requirements.
+
+Contact: the email address listed on this app's Google consent screen.
